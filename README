@@ -1,0 +1,1 @@
+Este repo adapta a linux, con configuraciones para los archivos del peacock en conjunto, el servidor. Para ello se han adaptado lanzadores e IPs simuladas para un localhost que funcione lanzando un .bat (a través de proton/wine) de forma que no haya mas que lanzar eso y jugar.
